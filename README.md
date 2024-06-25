@@ -4,6 +4,8 @@ Analyzing features that influence consumption (energy, production, temperature)
 In this case study, I analyzed various factors that influence different types of consumption including
 energy, production, and temperature as time progresses.
 A more detailed report in located in the `Case Study` PowerPoint.
+Additionally, there is another report `Report for Merged Dataset` pdf which contains analysis on merging
+each of the energy, temperature, and production datasets together.
 Below is a summary of my analysis of the Case Study.
 
 ## Energy
